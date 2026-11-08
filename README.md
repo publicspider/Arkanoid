@@ -5,8 +5,7 @@ object-oriented design. Developed as part of an OOP course at
 Bar-Ilan University.
 
 ## Features
-   ![Arkanoid gameplay](<img width="1005" height="784" alt="arkanoid screenshot" src="https://github.com/user-attachments/assets/ea1b6191-7ad6-4cc2-bb5d-291bb444ae51" />
-)
+   ![Arkanoid gameplay](https://github.com/publicspider/Arkanoid/blob/main/arkanoid%20screenshot.png)
 - Ball physics with velocity vectors and real-time collision detection
 - Collisions with the paddle, blocks and screen borders
 - Blocks are removed when hit, and a counter tracks the blocks that remain
